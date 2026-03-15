@@ -11,10 +11,9 @@
 
 <br>
 
-- Coding for fun, built with conviction.
-- Fueled by music, inspired by books.
+
 - A self-taught hobbyist and future Systems Engineer.
-- I am currently open to an internship or freelance projects.
+- I focus primarily on programming with Rust.
 - I like responsibility and especially with time.
 - Beyond "Hello World": Building Experiences.
 
@@ -31,6 +30,7 @@
     ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
     ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&logoWidth=30)
+    ![Rust](https://shields.io/badge/-Rust-3776AB?style=for-the-badge&logo=rust&logoWidth=30)
 
 
     
