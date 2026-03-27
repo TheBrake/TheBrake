@@ -57,7 +57,14 @@
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
     ![PyCharm](https://img.shields.io/badge/PyCharm-0CA678?style=for-the-badge&logo=PyCharm&logoColor=FACC15&logoWidth=50)
     ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheBrake&layout=compact&theme=vision-friendly-dark&hide_border=true&locale=es&cache_seconds=1800" alt="Most Use Languagues" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TheBrake&show_icons=true&theme=vision-friendly-dark&count_private=true&hide_border=true&locale=es&cache_seconds=1800" alt="Estadistics" />
+</p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
