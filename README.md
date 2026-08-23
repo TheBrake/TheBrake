@@ -12,7 +12,7 @@
 <br>
 
 
-- A self-taught and future Systems Engineer. (2 Semesters)
+- A self-taught and future Systems Engineer. (8 Semesters)
 - I focus primarily on programming with Rust. (First Priority)
 - I like responsibility and especially with time. (I prefer to achieve goals)
 - Beyond "Hello World": Building Experiences.
